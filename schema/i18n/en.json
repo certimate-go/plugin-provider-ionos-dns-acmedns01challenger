@@ -1,0 +1,10 @@
+{
+  "plugin.ionos-dns.name": "IONOS",
+  "plugin.ionos-dns.description": "ACME DNS-01 via IONOS.",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.label": "IONOS API key public prefix",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.tooltip": "For more information, see <a href=\"https://developer.hosting.ionos.com/docs/getstarted\" target=\"_blank\">https://developer.hosting.ionos.com/docs/getstarted</a>",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.placeholder": "Please enter IONOS API key public prefix",
+  "plugin.ionos-dns.access.apiKeySecret.label": "IONOS API key secret",
+  "plugin.ionos-dns.access.apiKeySecret.tooltip": "For more information, see <a href=\"https://developer.hosting.ionos.com/docs/getstarted\" target=\"_blank\">https://developer.hosting.ionos.com/docs/getstarted</a>",
+  "plugin.ionos-dns.access.apiKeySecret.placeholder": "Please enter IONOS API key secret"
+}

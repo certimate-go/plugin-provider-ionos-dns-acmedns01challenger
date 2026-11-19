@@ -1,0 +1,10 @@
+{
+  "plugin.ionos-dns.name": "IONOS",
+  "plugin.ionos-dns.description": "通过 IONOS 完成 ACME DNS-01 验证。",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.label": "IONOS API Key Public Prefix",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.tooltip": "这是什么？请参阅 <a href=\"https://developer.hosting.ionos.com/docs/getstarted\" target=\"_blank\">https://developer.hosting.ionos.com/docs/getstarted</a>",
+  "plugin.ionos-dns.access.apiKeyPublicPrefix.placeholder": "请输入 IONOS API Key Public Prefix",
+  "plugin.ionos-dns.access.apiKeySecret.label": "IONOS API Key Secret",
+  "plugin.ionos-dns.access.apiKeySecret.tooltip": "这是什么？请参阅 <a href=\"https://developer.hosting.ionos.com/docs/getstarted\" target=\"_blank\">https://developer.hosting.ionos.com/docs/getstarted</a>",
+  "plugin.ionos-dns.access.apiKeySecret.placeholder": "请输入 IONOS API Key Secret"
+}

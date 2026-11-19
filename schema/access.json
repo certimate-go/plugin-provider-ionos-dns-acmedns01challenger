@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "ionos",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiKeyPublicPrefix",
+        "valueType": "text",
+        "labelKey": "plugin.ionos-dns.access.apiKeyPublicPrefix.label",
+        "tooltipKey": "plugin.ionos-dns.access.apiKeyPublicPrefix.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.ionos-dns.access.apiKeyPublicPrefix.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiKeySecret",
+        "valueType": "secret",
+        "labelKey": "plugin.ionos-dns.access.apiKeySecret.label",
+        "tooltipKey": "plugin.ionos-dns.access.apiKeySecret.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.ionos-dns.access.apiKeySecret.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}
